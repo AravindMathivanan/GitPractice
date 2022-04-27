@@ -14,4 +14,9 @@ public class SecondClass {
 		System.out.println("Hey its 11");
 		System.out.println("Hey its 22");
 	}
+	@Test
+	public void itsSecondThird() {
+		System.out.println("Hey its 111");
+		System.out.println("Hey its 222");
+	}
 }

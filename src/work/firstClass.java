@@ -15,5 +15,10 @@ public class firstClass {
 		System.out.println("Its me me 1");
 		System.out.println("Its me me 2");
 	}
+	@Test
+	public void itsFirstthird() {
+		System.out.println("Its me me me 1");
+		System.out.println("Its me me me 2");
+	}
 
 }
